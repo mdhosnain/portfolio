@@ -1,0 +1,21 @@
+
+body{
+    font-family: 'PT Serif', serif;
+
+}
+h1{
+    font-size: 50px;
+}
+.color-highlight{
+    color: orange;
+}
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+    
+}
